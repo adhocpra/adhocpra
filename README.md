@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I'm Pravat Adhikari 👋
 
-<!--
-**adhocpra/adhocpra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS Senior @ Northwestern Oklahoma State University  
+Graduating Fall 2026 | GPA: 3.96
 
-Here are some ideas to get you started:
+## 🔍 About Me
+Aspiring Data Analyst with experience in Python, SQL, 
+and financial data analysis. Currently building projects 
+in data analytics and software engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages:** Python, SQL
+- **Libraries:** Pandas, Matplotlib, NumPy
+- **Tools:** MySQL, Git, Excel, VSCode
+- **Concepts:** Data Cleaning, EDA, OOP, DSA
+
+## 📁 Projects
+- [Portfolio](https://adhocpra.github.io)
+- [DSA in Python](https://github.com/adhocpra/DSA-Python)
+- [MySQL Practice](https://github.com/adhocpra/MySQL_Practice)
+- [Python Data Science](https://github.com/adhocpra/Python_Intermediate)
