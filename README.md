@@ -67,15 +67,6 @@ I build projects across the full data lifecycle, progressing from core fundament
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adhocpra&show_icons=true&theme=dark&hide_border=true&bg_color=0b1220&title_color=10b981&icon_color=10b981&text_color=94a3b8" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhocpra&layout=compact&theme=dark&hide_border=true&bg_color=0b1220&title_color=10b981&text_color=94a3b8" height="160" />
-</p>
-
----
-
 ## 📫 Connect
 
 | | |
