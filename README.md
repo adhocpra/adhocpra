@@ -1,1 +1,66 @@
-PGgxIGFsaWduPSJjZW50ZXIiPkhpLCBJJ20gUHJhdmF0IEFkaGlrYXJpIPCfkYs8L2gxPgoKPHAgYWxpZ249ImNlbnRlciI+CiAgPGI+RGF0YSBFbmdpbmVlciDCtyBQeXRob24sIFNRTCwgUHlTcGFyayAmIERhdGFicmlja3MgwrcgQVdTICYgQXp1cmUgRVRML0VMVCBQaXBlbGluZXMgwrcgSGVhbHRoY2FyZSAmIEZpbmFuY2lhbCBTZXJ2aWNlczwvYj48YnI+CiAgRGF0YSBFbmdpbmVlciBAIENhcGl0YWwgT25lIMK3IFByZXZpb3VzbHkgRGF0YSBFbmdpbmVlciBAIEthaXNlciBQZXJtYW5lbnRlCjwvcD4KCjxwIGFsaWduPSJjZW50ZXIiPgogIDxhIGhyZWY9Imh0dHBzOi8vYWRob2NwcmEuZ2l0aHViLmlvIj48aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9Qb3J0Zm9saW8tYWRob2NwcmEuZ2l0aHViLmlvLTEwYjk4MT9zdHlsZT1mbGF0LXNxdWFyZSZsb2dvPWdpdGh1Yi1wYWdlcyZsb2dvQ29sb3I9d2hpdGUiIC8+PC9hPiZuYnNwOwogIDxhIGhyZWY9Imh0dHBzOi8vbGlua2VkaW4uY29tL2luL3ByYXZhdGFkaGlrYXJpIj48aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9MaW5rZWRJbi1wcmF2YXRhZGhpa2FyaS0wMDc3QjU/c3R5bGU9ZmxhdC1zcXVhcmUmbG9nbz1saW5rZWRpbiZsb2dvQ29sb3I9d2hpdGUiIC8+PC9hPiZuYnNwOwogIDxhIGhyZWY9Im1haWx0bzpwcmF2YXRhZGhpa2FyaTEwQGdtYWlsLmNvbSI+PGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvRW1haWwtcHJhdmF0YWRoaWthcmkxMEBnbWFpbC5jb20tRDE0ODM2P3N0eWxlPWZsYXQtc3F1YXJlJmxvZ289Z21haWwmbG9nb0NvbG9yPXdoaXRlIiAvPjwvYT4KPC9wPgoKLS0tCgojIyDwn5K8IEV4cGVyaWVuY2UKCioqRGF0YSBFbmdpbmVlciDigJQgQ2FwaXRhbCBPbmUqKiDCtyBEZWMgMjAyNSDigJMgUHJlc2VudCDCtyBSZW1vdGUKLSBBV1MtbmF0aXZlIEVUTC9FTFQgcGlwZWxpbmVzIGFjcm9zcyA2IHNvdXJjZXM7IHJldXNhYmxlIFB5U3BhcmsgY3V0IGR1cGxpY2F0ZSBlZmZvcnQgfjMwJSwgU3BhcmsgcnVudGltZXMgfjM1JSwgZGF0YS1xdWFsaXR5IGlzc3VlcyB+MzAlOyA1IGxlZ2FjeSBwcm9jZXNzZXMgbW9kZXJuaXplZC4KCioqRGF0YSBFbmdpbmVlciDigJQgS2Fpc2VyIFBlcm1hbmVudGUqKiDCtyBNYXIgMjAyMCDigJMgSmFuIDIwMjMgwrcgUmVtb3RlCi0gQXp1cmUgRGF0YSBGYWN0b3J5ICsgRGF0YWJyaWNrcyBwaXBlbGluZXMgZm9yIEVwaWMgRUhSLCBjbGFpbXMsIGFuZCBwcm92aWRlciBkYXRhIGZyb20gNSBzeXN0ZW1zOyBsb2FkIHRpbWVzIH4zNSUgbGVzcywgZGFzaGJvYXJkIHF1ZXJpZXMgfjM1JSBmYXN0ZXIsIG1hbnVhbCBpbnRlcnZlbnRpb25zIH40MCUgZmV3ZXI7IDggbGVnYWN5IGZsb3dzIG1pZ3JhdGVkLgoKLS0tCgojIyDwn5qAIEZlYXR1cmVkIFByb2plY3RzCgoqKltEYXRhLUVuZ2luZWVyaW5nLVByb2plY3RzXShodHRwczovL2dpdGh1Yi5jb20vYWRob2NwcmEvRGF0YS1FbmdpbmVlcmluZy1Qcm9qZWN0cykqKiDigJQgUHJvZHVjdGlvbi1zdHlsZSBkYXRhIGVuZ2luZWVyaW5nLCBvbmUgcHJvamVjdCBwZXIgY29yZSBza2lsbDoKCi0gKiowMSDigJQgRVRML0VMVCBGaW5hbmNlIFBpcGVsaW5lKiogKFB5dGhvbiwgU1FMLCBQb3N0Z3JlU1FMLCBEb2NrZXIsIEdyZWF0IEV4cGVjdGF0aW9ucykg4oCUIDEsMDAwIGZpbmFuY2lhbCB0cmFuc2FjdGlvbnMgd2l0aCBkYXRhLXF1YWxpdHkgZ2F0ZXM7IGJhZCByb3dzIHF1YXJhbnRpbmVkLCBuZXZlciBzaWxlbnRseSBsb2FkZWQuCi0gKiowMiDigJQgUHlTcGFyayArIERlbHRhIExha2UgTWVkYWxsaW9uIFBpcGVsaW5lKiogKFB5U3BhcmssIERlbHRhIExha2UsIEJyb256ZSDihpIgU2lsdmVyIOKGkiBHb2xkKSDigJQgMSwwMDAgcm93cyB0aHJvdWdoIEJyb256ZS9TaWx2ZXIvR29sZCB3aXRoIDggcXVhbGl0eS1nYXRlIGNoZWNrcyBwYXNzaW5nLgotIENvbWluZyBuZXh0OiBkYnQgKyBBaXJmbG93LCBoZWFsdGhjYXJlIGNsYWltcyAoQURGL0RhdGFicmlja3MpLCBBV1MgR2x1ZS9BdGhlbmEvUmVkc2hpZnQsIEthZmthIHN0cmVhbWluZy4KCi0tLQoKIyMg8J+nsCBUZWNoIFN0YWNrCgoqKkxhbmd1YWdlcyoqCmBQeXRob25gIGBTUUxgIGBQeVNwYXJrYCBgU3BhcmsgU1FMYCBgQmFzaGAKCioqRGF0YSBFbmdpbmVlcmluZyoqCmBEYXRhYnJpY2tzYCBgRGVsdGEgTGFrZWAgYE1lZGFsbGlvbiBBcmNoaXRlY3R1cmVgIGBFVEwgLyBFTFRgIGBBaXJmbG93YCBgRGF0YWJyaWNrcyBXb3JrZmxvd3NgIGBkYnRgIGBHcmVhdCBFeHBlY3RhdGlvbnNgIGBEaW1lbnNpb25hbCBNb2RlbGluZ2AKCioqQ2xvdWQgJiBQbGF0Zm9ybXMqKgpgQVdTIChTMywgR2x1ZSwgQXRoZW5hLCBSZWRzaGlmdCwgTGFtYmRhLCBFTVIpYCBgQXp1cmUgKEFERiwgU3luYXBzZSwgQURMUyBHZW4yLCBLZXkgVmF1bHQpYCBgRG9ja2VyYCBgR2l0YCBgR2l0SHViIEFjdGlvbnNgCgoqKkRhdGEgJiBBbmFseXRpY3MqKgpgUG9zdGdyZVNRTGAgYE15U1FMYCBgU1FMIFNlcnZlcmAgYFBhbmRhc2AgYE51bVB5YCBgVGFibGVhdWAgYFBvd2VyIEJJYCBgRXhjZWxgCgotLS0KCiMjIPCflJwgQ29taW5nIE5leHQKCi0gKipkYnQgKyBBaXJmbG93Kiog4oCUIGFuYWx5dGljcyBlbmdpbmVlcmluZyB3aXRoIG9yY2hlc3RyYXRlZCBkYnQgbW9kZWxzCi0gKipIZWFsdGhjYXJlIENsYWltcyBQaXBlbGluZSoqIOKAlCBBenVyZSBEYXRhIEZhY3RvcnkgLyBEYXRhYnJpY2tzIG9uIHN5bnRoZXRpYyBFcGljLWxpa2UgZGF0YQotICoqQVdTIEFuYWx5dGljcyBXYXJlaG91c2UqKiDigJQgR2x1ZSAvIEF0aGVuYSAvIFJlZHNoaWZ0Ci0gKipLYWZrYSBTdHJlYW1pbmcqKiDigJQgcmVhbC10aW1lIGV2ZW50IHBpcGVsaW5lCgojIyDwn5OrIENvbm5lY3QKCnwgfCB8CnwtLXwtLXwKfCDwn4yQIFBvcnRmb2xpbyB8IFthZGhvY3ByYS5naXRodWIuaW9dKGh0dHBzOi8vYWRob2NwcmEuZ2l0aHViLmlvKSB8Cnwg8J+SvCBMaW5rZWRJbiB8IFtpbi9wcmF2YXRhZGhpa2FyaV0oaHR0cHM6Ly9saW5rZWRpbi5jb20vaW4vcHJhdmF0YWRoaWthcmkpIHwKfCDinInvuI8gRW1haWwgfCBwcmF2YXRhZGhpa2FyaTEwQGdtYWlsLmNvbSB8Cg==
+<h1 align="center">Hi, I'm Pravat Adhikari 👋</h1>
+
+<p align="center">
+  <b>Data Engineer & Data Analyst · Python, SQL, PySpark & Databricks · AWS & Azure ETL/ELT Pipelines · Healthcare & Financial Services</b><br>
+  Data Engineer @ Capital One · Previously Data Engineer @ Kaiser Permanente<br>
+  Pipelines and analysis — I build the data and the dashboards on top of it (Tableau, Power BI, Excel)
+</p>
+
+<p align="center">
+  <a href="https://adhocpra.github.io"><img src="https://img.shields.io/badge/Portfolio-adhocpra.github.io-10b981?style=flat-square&logo=github-pages&logoColor=white" /></a>&nbsp;
+  <a href="https://linkedin.com/in/pravatadhikari"><img src="https://img.shields.io/badge/LinkedIn-pravatadhikari-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="mailto:pravatadhikari10@gmail.com"><img src="https://img.shields.io/badge/Email-pravatadhikari10@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+## 💼 Experience
+
+**Data Engineer — Capital One** · Dec 2025 – Present · Remote
+- AWS-native ETL/ELT pipelines across 6 sources; reusable PySpark cut duplicate effort ~30%, Spark runtimes ~35%, data-quality issues ~30%; 5 legacy processes modernized.
+
+**Data Engineer — Kaiser Permanente** · Mar 2020 – Jan 2023 · Remote
+- Azure Data Factory + Databricks pipelines for Epic EHR, claims, and provider data from 5 systems; load times ~35% less, dashboard queries ~35% faster, manual interventions ~40% fewer; 8 legacy flows migrated.
+
+---
+
+## 🚀 Featured Projects
+
+**[Data-Engineering-Projects](https://github.com/adhocpra/Data-Engineering-Projects)** — Production-style data engineering, one project per core skill:
+
+- **01 — ETL/ELT Finance Pipeline** (Python, SQL, PostgreSQL, Docker, Great Expectations) — 100,000 financial transactions over 24 months with data-quality gates; bad rows quarantined, never silently loaded. 9 pytest tests.
+- **02 — PySpark + Delta Lake Medallion Pipeline** (PySpark, Delta Lake, Bronze → Silver → Gold) — 100,000 rows through Bronze/Silver/Gold with 8 quality-gate checks passing; Gold total matches Project 1 exactly.
+- **03 — dbt + Airflow Orchestration** (dbt, Airflow, DuckDB) — scheduled dbt models over 100,000 transactions with ~1.5% bad rows; dbt build 15/15 tests passing, daily Airflow DAG.
+- Coming next: healthcare claims (ADF/Databricks), AWS Glue/Athena/Redshift, Kafka streaming.
+
+---
+
+## 🧰 Tech Stack
+
+**Languages**
+`Python` `SQL` `PySpark` `Spark SQL` `Bash`
+
+**Data Engineering**
+`Databricks` `Delta Lake` `Medallion Architecture` `ETL / ELT` `Airflow` `Databricks Workflows` `dbt` `Great Expectations` `Dimensional Modeling`
+
+**Cloud & Platforms**
+`AWS (S3, Glue, Athena, Redshift, Lambda, EMR)` `Azure (ADF, Synapse, ADLS Gen2, Key Vault)` `Docker` `Git` `GitHub Actions`
+
+**Data & Analytics**
+`PostgreSQL` `MySQL` `SQL Server` `Pandas` `NumPy` `Tableau` `Power BI` `Excel` `Looker` `DAX` `Power Query`
+
+---
+
+## 🔜 Coming Next
+
+- **Healthcare Claims Pipeline** — Azure Data Factory / Databricks on synthetic Epic-like data
+- **AWS Analytics Warehouse** — Glue / Athena / Redshift
+- **Kafka Streaming** — real-time event pipeline
+
+## 📫 Connect
+
+| | |
+|--|--|
+| 🌐 Portfolio | [adhocpra.github.io](https://adhocpra.github.io) |
+| 💼 LinkedIn | [in/pravatadhikari](https://linkedin.com/in/pravatadhikari) |
+| ✉️ Email | pravatadhikari10@gmail.com |
